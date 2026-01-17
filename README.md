@@ -13,6 +13,7 @@ The dashboard displays key business metrics in an easy-to-read format:
 - **Profit**: $25K total profit  
 - **Quantity**: 60K items sold
 
+
 **Visual Charts:**
 - **Top Category**: Horizontal bar chart showing the best-performing product categories
 - **Sales vs Profit**: Line chart comparing sales and profit trends over time
